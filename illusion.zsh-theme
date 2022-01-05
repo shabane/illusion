@@ -1,6 +1,6 @@
 ZSH_THEME_GIT_PROMPT_PREFIX="["
 ZSH_THEME_GIT_PROMPT_SUFFIX="]"
-ZSH_THEME_GIT_PROMPT_DIRTY="*"
+ZSH_THEME_GIT_PROMPT_DIRTY="卐"
 
 get_status_code() {
     echo %{$FG[243]%}"[%?]"%{$reset_color%}
