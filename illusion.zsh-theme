@@ -18,6 +18,6 @@ get_location() {
     echo %{$FG[111]%}"["`pwd`"]"%{$reset_color%}
 }
 
-PROMPT='┌─$(get_login) $(get_location) $(get_status_code) %{$FG[115]%}$(git_prompt_info) %{$reset_color%}
-│
-└──❯ '
+PROMPT='%{$fg[cyan]%}┌─%{$reset_color%}$(get_login) $(get_location) $(get_status_code) %{$FG[115]%}$(git_prompt_info) %{$reset_color%}
+%{$fg[cyan]%}│%{$reset_color%}
+%{$fg[cyan]%}└──〉%{$reset_color%}'
