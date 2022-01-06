@@ -1,6 +1,6 @@
 # the illusiion zsh theme
 
-this is a zsh theme which i need. i didn't like any other git theme so i make my own :)
+this is a zsh theme which i need. i didn't like any other zsh theme so i make my own :)
 
 ### features
 1. like any other theme we show the `username` of loged in user at the very first column
