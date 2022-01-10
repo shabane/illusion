@@ -11,7 +11,7 @@ this is a zsh theme which i need. i didn't like any other zsh theme so i make my
 6. second most important feature for me is that we **have two line**, *first line show the above inforamation* and the second line is for typing the command. so *we have much of space for entering command while we seeing our information*
 
 ### screenhots
-![illusion-zsh-theme](https://s4.uupload.ir/files/illusion_3d6z.jpg)
+![illusion-zsh-theme](https://s4.uupload.ir/files/2_uexp.jpg)
 
 
 ### how to use this theme
