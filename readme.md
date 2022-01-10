@@ -15,7 +15,7 @@ this is a zsh theme which i need. i didn't like any other zsh theme so i make my
 
 
 ### how to use this theme
-1. clone the repo to /tmp `git clone https://github.com/shabane/illusion.git /tmp`
+1. clone the repo to /tmp `git clone https://github.com/shabane/illusion.git /tmp/illusion`
 2. copy the theme to ~/.oh-my-zsh/themes `cp /tmp/illusion/illusion.zsh-theme`
 3. change the **ZSH_THEME** variable to `ZSH_THEME="illusion"` in `~/.zshrc file`
 4. restart the terminal or *source* the `.zshrc` by `source ~/.zshrc`
